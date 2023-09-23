@@ -7,9 +7,10 @@ val blackBlur = Color(0x4D000000)
 val white = Color.White
 val lightBlack = Color(0xFF202022)
 val lightGray = Color(0xFFE1E1E1)
+val gray = Color(0xFFCFCFCF)
 
 val primary = lightBlack
-val primaryVariant = white
+val primaryVariant = blackBlur
 val background = white
 val surface = white
 val error = Color(0xFFB00020)
